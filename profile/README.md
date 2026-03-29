@@ -27,7 +27,7 @@ We are a research-oriented lab focused on intelligent systems and interdisciplin
 
 - Chunhong Yuan  
 - Tianshi Wei ([whynotEm](https://github.com/whynotEm))
-- Xiang Zhang  
+- - Liu94330 ([Liu94330](https://github.com/Liu94330))
 - Yule Cai  
 
 ---

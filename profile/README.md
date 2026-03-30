@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/weyoung-open-lab/.github/main/logo.jpg" width="220"/>
 </p>
 
-<h1 align="center">Weyoung Open Lab</h1>
+<h1 align="center">We Young Open Lab</h1>
 
 <p align="center">
   <b>未泱 · We Young</b>

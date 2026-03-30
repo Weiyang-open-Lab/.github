@@ -1,4 +1,14 @@
-# 🚀 We Young Open Lab
+<p align="center">
+  <img src="https://raw.githubusercontent.com/weyoung-open-lab/.github/main/logo.jpg" width="280"/>
+</p>
+
+<h1 align="center">Weyoung Open Lab</h1>
+
+<p align="center">
+  未泱 · We Young
+</p>
+
+---
 
 Welcome to **We Young Open Lab** 👋
 

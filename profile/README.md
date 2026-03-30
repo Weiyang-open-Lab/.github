@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/weyoung-open-lab/.github/main/logo.jpg" width="280"/>
+  <img src="https://raw.githubusercontent.com/weyoung-open-lab/.github/main/logo.jpg" width="220"/>
 </p>
 
 <h1 align="center">Weyoung Open Lab</h1>
 
 <p align="center">
-  未泱 · We Young
+  <b>未泱 · We Young</b>
 </p>
+
+<br>
 
 ---
 
@@ -14,7 +16,7 @@ Welcome to **We Young Open Lab** 👋
 
 We are a research-oriented lab focused on intelligent systems and interdisciplinary AI applications.
 
----
+
 
 ## 🔬 Research Areas
 
